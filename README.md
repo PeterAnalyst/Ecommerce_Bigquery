@@ -6,6 +6,8 @@ workflow — from raw data exploration in SQL to an interactive Power BI
 dashboard — with the goal of understanding user behavior, channel
 performance, device efficiency, and revenue opportunities.
 
+This project was built using DirectQuery mode connecting Power BI to Google BigQuery, simulating a real-world cloud analytics environment where data remains in the warehouse and dashboards query data in real time.
+
 ---
 
 ## Dataset
