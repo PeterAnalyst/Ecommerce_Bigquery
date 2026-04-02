@@ -290,7 +290,7 @@ Revenue Opportunity) and switches between two analytical views:
 
 *Filters: Year, Quarter, Month dropdowns, Session range slider*
 
-→ ['Deeper on Dashboard `](ecommerce_dashboard.md)
+→ ['Deeper on Dashboard `](/powerbi/ecommerce_dashboard.md)
 
 ---
 
@@ -327,7 +327,7 @@ efficiency. Improving the mobile experience and optimizing
 underperforming channels represent the clearest paths to meaningful
 revenue growth.
 
-→ ['Deeper on Business Insight `](insights.md)
+→ ['Deeper on Business Insight `](/docs/insights.md)
 
 ---
 
