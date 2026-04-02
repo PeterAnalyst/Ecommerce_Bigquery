@@ -290,6 +290,8 @@ Revenue Opportunity) and switches between two analytical views:
 
 *Filters: Year, Quarter, Month dropdowns, Session range slider*
 
+→ ['Deeper on Dashboard `](ecommerce_dashboard.md)
+
 ---
 
 ## Key Business Insights
@@ -324,6 +326,8 @@ The core performance issue is not traffic volume but conversion
 efficiency. Improving the mobile experience and optimizing
 underperforming channels represent the clearest paths to meaningful
 revenue growth.
+
+→ ['Deeper on Business Insight `](insights.md)
 
 ---
 
