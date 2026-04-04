@@ -193,10 +193,10 @@ axis — similar to log scaling used in data normalization:
 
 | Funnel Step | Raw Value | LOG10 |
 |---|---|---|
-| Sessions | ~869,000 | 5.94 |
-| Users | ~685,000 | 5.84 |
-| Transactions | ~12,000 | 4.08 |
-| Revenue | ~$2,000,000 | 6.30 |
+| Sessions | 869,000 | 5.94 |
+| Users | 685,000 | 5.84 |
+| Transactions | 12,000 | 4.08 |
+| Revenue | $2,000,000 | 6.30 |
 
 All four steps fall in the **4–7 range**, making them visually
 comparable on the same chart axis without smaller values being
