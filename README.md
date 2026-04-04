@@ -129,7 +129,7 @@ to optimize performance and simplify reporting in Power BI.
 
 → [`06_star_schema.sql`](sql/06_star_schema.sql)
 
-![Data Model](images/data_model.png)
+![Data Model](Ecommerce_Bigquery/images/data_model.png)
 
 
 ### Fact Table
