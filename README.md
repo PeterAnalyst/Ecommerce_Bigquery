@@ -28,10 +28,10 @@ transactions.
 |---|---|
 | Source | BigQuery Public Dataset |
 | Coverage | August 2016 – August 2017 |
-| Total Sessions | ~869K |
-| Total Users | ~685K |
-| Total Transactions | ~12K |
-| Total Revenue | ~$2M |
+| Total Sessions | 869K |
+| Total Users | 685K |
+| Total Transactions | 12K |
+| Total Revenue | $2M |
 
 ---
 
